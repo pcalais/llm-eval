@@ -1,3 +1,2 @@
-adição de um passo extra
+adição de uma operação extra
 adição de descrição textual
-adição de informação implícita
