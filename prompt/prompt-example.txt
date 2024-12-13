@@ -1,0 +1,17 @@
+Instrução: A partir e uma questão e do conceito que ela explora, elabore uma questão mais difícil sobre o mesmo conceito que torna a questão mais difícil a partir do critério especificado. 
+
+Exemplo:
+
+Conceito: operações aritméticas
+Questão:  Quanto 1 + 1? A) 0 B) 1 C) 2 D) 3 E) 4
+Critério de dificuldade a ser introduzido: adição de um passo extra
+Questão mais difícil: Quanto 1 + 1 + 1? A) 0 B) 1 C) 2 D) 3 E) 4
+Resposta: D.
+
+Agora você:
+
+Conceito: operações aritméticas
+Questão:  Quanto 1 + 1? A) 0 B) 1 C) 2 D) 3 E) 4
+Critério de dificuldade a ser introduzido: adição de um passo extra
+Questão mais difícil:
+Resposta: 

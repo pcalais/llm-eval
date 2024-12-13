@@ -1,0 +1,3 @@
+adição de um passo extra
+adição de descrição textual
+adição de informação implícita
